@@ -81,6 +81,7 @@ p{
 /* Features Container*/
 #features{
   position: relative;
+  background-color: #fff;
 }
 
 .col{
